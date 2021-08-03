@@ -36,3 +36,9 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * support@xmrig.com
 * [reddit](https://www.reddit.com/user/XMRig/)
 * [twitter](https://twitter.com/xmrig_dev)
+
+## Disclaimer
+* it's only for personal use
+* changes made for my personal cpu
+* changes made on config.json and donate.h files
+
